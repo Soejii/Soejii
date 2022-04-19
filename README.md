@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Soejii
-- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me sujiantorafi@gmail.com
 
