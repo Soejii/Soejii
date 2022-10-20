@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soejii
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Dart
 - 📫 How to reach me sujiantorafi@gmail.com
 
 <!---
